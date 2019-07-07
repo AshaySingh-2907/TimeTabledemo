@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/logoutMenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/settingsMenu"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        ></item>
+</menu>

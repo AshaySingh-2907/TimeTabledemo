@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Time Table demo</string>
+    <string name="not_registered_yet">prompt</string>
+    <string name="REGISTER">regbutton</string>
+    <string name="number_of_incorrect_attempts">inc_attempts</string>
+    <string name="login">btnlogin</string>
+    <string name="email_id">email_id</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="email_address">email_id</string>
+    <string name="mobile_number">mo_no</string>
+    <string name="already_registered_login">already_registered</string>
+
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+
+    </string-array>
+
+    <string-array name="Monday">
+        <item>GRP A-ECAD LAB\nGRP B-AC LAB</item>
+        <item><font color="#FF0000">SHORT BREAK</font></item>
+        <item>PCS</item>
+        <item>LUNCH BREAK</item>
+        <item>SS</item>
+        <item>GRP A-ICA LAB\nGRP B-PCS PRACS</item>
+        <item>MATHS</item>
+
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>Computer Communication Networks</item>
+        <item>Communication Theory - 2</item>
+        <item>Break</item>
+        <item>Computer Communication Networks</item>
+        <item>Mixed Signal Design</item>
+        <item>Break</item>
+        <item> CT2 Lab - A4\nMSD Lab - A1</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>Antenna and Wave Propagation</item>
+        <item>Computer Communication Networks</item>
+        <item>Break</item>
+        <item>Cluster Elective</item>
+        <item>Department Elective</item>
+        <item>Break</item>
+        <item> AWP Tutorial</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>Antenna and Wave Propagation </item>
+        <item>Communication Theory - 2</item>
+        <item>Break</item>
+        <item>Cluster Elective</item>
+        <item>Department Elective</item>
+        <item>Break</item>
+        <item> CT2 Lab - A2\nMSD Lab - A3</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item> CT2 Lab - A3\nMSD Lab - A4</item>
+        <item>Break</item>
+        <item>Mixed Signal Design</item>
+        <item>Communication Theory - 2</item>
+        <item>Break</item>
+        <item>Department Elective Tut</item>
+    </string-array>
+
+
+    <string-array name="time1">
+        <item>9:00AM-11:00AM</item>
+        <item>11:00AM -11:15AM</item>
+        <item>11:15AM-12:15PM</item>
+        <item>12:15PM-1:15PM</item>
+        <item>1:15PM-2:15PM</item>
+        <item>2:15PM - 4:15PM</item>
+        <item>4:15PM - 5:15PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:55AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item>MATHS</item>
+        <item>SIGNALS AND SYSTEMS</item>
+        <item>INTEGRATED CIRCUIT ANALYSIS</item>
+        <item>ANALOG CIRCUITS</item>
+        <item>ECAD-2</item>
+        <item>NUMERICAL TECHNIQUES</item>
+        <item>PCS</item>
+
+    </string-array>
+
+
+    <string-array name="faculty_name">
+        <item>Faculty1</item>
+        <item>Faculty2</item>
+        <item>Faculty3</item>
+        <item>Faculty4</item>
+        <item>Faculty5</item>
+        <item>Faculty6</item>
+    </string-array>
+
+    <string-array name="faculty1">
+        <item>1234</item>
+        <item>xyz@gmail.com</item>
+        <item>1 floor</item>
+
+    </string-array>
+
+
+    <string-array name="faculty2">
+        <item>1345</item>
+        <item>xwwyz@gmail.com</item>
+        <item>1 floor</item>
+
+    </string-array>
+
+    <string-array name="faculty3">
+        <item>134533</item>
+        <item>xwyz@gmail.com</item>
+        <item>1 floor</item>
+
+    </string-array>
+
+    <string-array name="faculty4">
+        <item>134544</item>
+        <item>xywz@gmail.com</item>
+        <item>1 floor</item>
+
+    </string-array>
+
+    <string-array name="faculty5">
+        <item>134543</item>
+        <item>wxyz@gmail.com</item>
+        <item>1 floor</item>
+
+    </string-array>
+
+    <string-array name="faculty6">
+        <item>134521</item>
+        <item>xyzw@gmail.com</item>
+        <item>1 floor</item>
+
+    </string-array>
+
+</resources>
